@@ -6,7 +6,6 @@
           <h4 class="sub_title">our product portofolio</h4>
           <h2 class="sec_title">work showcase</h2>
           <p class="sec_desc">
-            ada lontong sayur, ada sate taycan, ada macam-macam
           </p>
         </div>
       </div>
